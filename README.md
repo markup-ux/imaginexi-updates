@@ -19,7 +19,7 @@ Why:
 - FINAL FANTASY XI's client, art, music, and data belong to Square Enix. Redistributing them is copyright infringement.
 - ImagineXI is run as a **research project**, and we want it to be as legally sound as possible. Everything we distribute is our own work or properly licensed open-source software — never Square Enix's assets.
 
-The good news: **the official client is a free download from Square Enix's own servers.** You do not need a registration code, a PlayOnline account, or a subscription to play on ImagineXI — those are only required for Square Enix's official retail service.
+The official client is a free download from Square Enix's own servers.** You do not need a registration code, a PlayOnline account, or a subscription to play on ImagineXI — those are only required for Square Enix's official retail service.
 
 ## Installing the official FFXI client
 
