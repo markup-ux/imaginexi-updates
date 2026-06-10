@@ -8,7 +8,7 @@ This repository hosts the launcher download and the rolling update channel the l
 
 ➡️ **[Download ImagineXILauncher.zip](https://github.com/markup-ux/imaginexi-updates/releases/download/live/ImagineXILauncher.zip)** — extract anywhere and run `ImagineXILauncher.exe`.
 
-The launcher installs and updates everything ImagineXI-specific automatically (loader, Windower bundle, overlay, addons). Updates are picked up every time you start the launcher — no reinstalling.
+The launcher installs and updates everything ImagineXI-specific automatically (loader, Windower bundle, overlay, addons). Updates are picked up every time you start the launcher.
 
 ## You need the official FFXI client (and why)
 
