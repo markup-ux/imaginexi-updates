@@ -42,6 +42,20 @@ The good news: **the official client is a free download from Square Enix's own s
 
 Questions or problems? Join the Discord (button in the launcher).
 
+## Connecting with your own setup
+
+Already have FFXI and your own private-server loader configured? You only need the server address:
+
+<!--SERVER_ADDRESS_START-->
+```
+24.148.24.152
+```
+
+For example, with xiloader: `xiloader.exe --server 24.148.24.152 --user youraccount`
+<!--SERVER_ADDRESS_END-->
+
+This address can change from time to time. The address above is refreshed automatically with every update we publish, and the always-current value is also in the [launcher manifest](https://github.com/markup-ux/imaginexi-updates/releases/download/live/launcher_manifest.json) (`ServerAddress` field). The launcher handles this for you automatically.
+
 ## Legal
 
 ImagineXI is a non-commercial research project. It is not affiliated with or endorsed by Square Enix. FINAL FANTASY is a registered trademark of Square Enix Holdings Co., Ltd. All game assets remain the property of their respective owners; this project distributes none of them.
