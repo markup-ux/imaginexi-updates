@@ -14,7 +14,7 @@ The launcher installs and updates everything ImagineXI-specific automatically (l
 
 ImagineXI **does not distribute any of Square Enix's copyrighted game files.** You install the official FINAL FANTASY XI client yourself, and the launcher uses that installation.
 
-Some private servers bundle the game's data files with their installers. We deliberately don't:
+Why:
 
 - FINAL FANTASY XI's client, art, music, and data belong to Square Enix. Redistributing them is copyright infringement.
 - ImagineXI is run as a **research project**, and we want it to be as legally sound as possible. Everything we distribute is our own work or properly licensed open-source software — never Square Enix's assets.
