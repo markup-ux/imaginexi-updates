@@ -41,7 +41,7 @@ We **do not** ship Square Enix game files, keyloggers, miners, or remote-access 
 ## Verify downloads (SHA256)
 
 <!--LAUNCHER_PUBLISHED_START-->
-Last launcher publish: **2026-06-11 07:59** (UTC). Re-run `Get-FileHash` on your downloads to match the table below.
+Last launcher publish: **2026-06-11 08:01** (UTC). Re-run `Get-FileHash` on your downloads to match the table below.
 <!--LAUNCHER_PUBLISHED_END-->
 
 <!--LAUNCHER_CHECKSUMS_START-->
@@ -50,7 +50,7 @@ Last launcher publish: **2026-06-11 07:59** (UTC). Re-run `Get-FileHash` on your
 | `ImagineXILauncher.exe` | `E73D491DF0329F0212A6C6060009C026FBEC5646776B08F4228A91DCB8D4801B` | 170.1 MB |
 | `launcher_config.json` | `A01A5AE29A483CE3B0B78A9BE1D0E0D96E7B977FA99A7B174F81EE7733BAB429` | 0 KB |
 | `launcher_manifest.json` | `5430DD38AED243950F1F31509133DF8AAA15CADFC603C28E7BD65D8F71BF7AD3` | 8 KB |
-| `launcher-assets.zip` | `FC61C49C47CD0CD176E6766654C08169EF967BD985A92A9559B210E699B84797` | 6.1 MB |
+| `launcher-assets.zip` | `F1010310E18C8049BBCA36C6EBFD831A1CC7175441B61638D0ACC38BE67B458C` | 6.1 MB |
 
 <details>
 <summary>All support files inside <code>launcher-assets.zip</code></summary>
