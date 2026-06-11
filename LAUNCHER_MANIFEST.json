@@ -1,5 +1,5 @@
 ﻿{
-    "PublishedAt":  "2026-06-11 08:01",
+    "PublishedAt":  "2026-06-11 08:09",
     "ExeReleaseUrl":  "https://github.com/markup-ux/imaginexi-updates/releases/download/live/ImagineXILauncher.exe",
     "Files":  [
                   {
@@ -104,8 +104,13 @@
                   },
                   {
                       "Path":  "launcher-assets.zip",
-                      "Sha256":  "F1010310E18C8049BBCA36C6EBFD831A1CC7175441B61638D0ACC38BE67B458C",
+                      "Sha256":  "A393AE1C7C0609B20C1A7E479AEB6B9EB7B359458AD439FB3D91AE723B9F3BF6",
                       "Bytes":  6442315
+                  },
+                  {
+                      "Path":  "ImagineXILauncher.zip",
+                      "Sha256":  "DB1A731DDF7624071088979FB7A518D807C02A4FD19F34342EA8A8BFD7896743",
+                      "Bytes":  82176348
                   }
               ]
 }
