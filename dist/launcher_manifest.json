@@ -1,0 +1,119 @@
+{
+    "Version":  "2026.06.10-0852",
+    "PatchNotes":  "Welcome to ImagineXI! Before you play: you need the official FINAL FANTASY XI client installed. ImagineXI never distributes Square Enix\u0027s game files - this project stays legally sound as a research effort, so you bring the official client (it\u0027s a free download from Square Enix; no registration code or subscription needed). Open Settings for the official download link and step-by-step guide. Then: Install / Update, create an account, and press Play.",
+    "RuntimeDataPackages":  [
+
+                            ],
+    "CorePackages":  [
+                         {
+                             "Name":  "ImagineXI Bootloader (xiloader v2.1.1)",
+                             "Url":  "https://github.com/markup-ux/imaginexi-updates/releases/download/live/imaginexi-bootloader-1.0.0.zip",
+                             "DestinationRelativePath":  "SquareEnix/FINAL FANTASY XI/bootloader",
+                             "IsZipArchive":  true,
+                             "ChecksumSha256":  "AA7E40F4F0A95C5064DC15ACC9B3BAB5FE2F379B01DEBCBF2C3C23996836C150"
+                         },
+                         {
+                             "Name":  "ImagineXI Launcher Runtime Files",
+                             "Url":  "https://github.com/markup-ux/imaginexi-updates/releases/download/live/imaginexi-runtime-1.0.0.zip",
+                             "DestinationRelativePath":  "Runtime",
+                             "IsZipArchive":  true,
+                             "ChecksumSha256":  "A224BF9949FF5C879848B1283B9696F97C4E066F00160B21FA1967CBBBAB1AB5"
+                         }
+                     ],
+    "AshitaPackages":  [
+
+                       ],
+    "WindowerPackages":  [
+                             {
+                                 "Name":  "Windower Core (ImagineXI bundle)",
+                                 "Url":  "https://github.com/markup-ux/imaginexi-updates/releases/download/live/windower-core-1.0.0.zip",
+                                 "DestinationRelativePath":  "Tools/Windower",
+                                 "IsZipArchive":  true,
+                                 "ChecksumSha256":  "062D77DF338B425CCAB47693CA21F7BA7DE65A214F2AEFB372502614CB475963"
+                             },
+                             {
+                                 "Name":  "Windower xiloader (compat v1.1.5)",
+                                 "Url":  "https://github.com/markup-ux/imaginexi-updates/releases/download/live/xiloader-v1.1.5.zip",
+                                 "DestinationRelativePath":  "Tools/Windower",
+                                 "IsZipArchive":  true,
+                                 "ChecksumSha256":  "FA30383DD04428F14CE5EE6228E7BF6441CDC6EB42AE5BCAAD305B0D9E8F3476"
+                             }
+                         ],
+    "PluginAndAddonPackages":  [
+                                   {
+                                       "Id":  "windower-config",
+                                       "Name":  "Windower: Config Plugin",
+                                       "Description":  "Core Windower plugin that stores addon settings — required by the ImagineXI overlay and most addons.",
+                                       "Category":  "plugin",
+                                       "TargetLoader":  "Windower",
+                                       "Url":  "https://github.com/markup-ux/imaginexi-updates/releases/download/live/config-1.0.0.zip",
+                                       "DestinationRelativePath":  "Tools/Windower/plugins",
+                                       "ComponentName":  "Config",
+                                       "IsZipArchive":  true,
+                                       "Version":  "1.0.0",
+                                       "Source":  "manifest",
+                                       "SourceUrl":  "https://github.com/Windower",
+                                       "ChecksumSha256":  "34A9EE6FAEE85D362DF83C84C60EC6424C99340DC1E52E2109C475A6FD8C62CD",
+                                       "EquivalentFeatureId":  "combat-overlay",
+                                       "EnabledByDefault":  true,
+                                       "SupportsAutoToggle":  true
+                                   },
+                                   {
+                                       "Id":  "windower-xivbar",
+                                       "Name":  "Windower: XIVBar HUD",
+                                       "Description":  "FFXIV-style HP/MP/TP bar HUD along the bottom of the screen.",
+                                       "Category":  "addon",
+                                       "TargetLoader":  "Windower",
+                                       "Url":  "https://github.com/markup-ux/imaginexi-updates/releases/download/live/xivbar-1.0.0.zip",
+                                       "DestinationRelativePath":  "Tools/Windower/addons",
+                                       "ComponentName":  "xivbar",
+                                       "IsZipArchive":  true,
+                                       "Version":  "1.0.0",
+                                       "Source":  "manifest",
+                                       "SourceUrl":  "https://github.com/Windower",
+                                       "ChecksumSha256":  "40D077E41C5F3C64B9CCC055801E06FBC5BF0DE1B7559091554A9A8C5C71348A",
+                                       "EquivalentFeatureId":  "hud",
+                                       "EnabledByDefault":  true,
+                                       "SupportsAutoToggle":  true
+                                   },
+                                   {
+                                       "Id":  "windower-shortcuts",
+                                       "Name":  "Windower: Shortcuts Addon",
+                                       "Description":  "Shorter chat commands with smart auto-complete for spells, abilities, and items.",
+                                       "Category":  "addon",
+                                       "TargetLoader":  "Windower",
+                                       "Url":  "https://github.com/markup-ux/imaginexi-updates/releases/download/live/shortcuts-1.0.0.zip",
+                                       "DestinationRelativePath":  "Tools/Windower/addons",
+                                       "ComponentName":  "shortcuts",
+                                       "IsZipArchive":  true,
+                                       "Version":  "1.0.0",
+                                       "Source":  "manifest",
+                                       "SourceUrl":  "https://github.com/Windower",
+                                       "ChecksumSha256":  "548BBE290A977E5287C3CE39ED6D2C1665BE43742C2865510724E9B139D15960",
+                                       "EquivalentFeatureId":  "",
+                                       "EnabledByDefault":  true,
+                                       "SupportsAutoToggle":  true
+                                   }
+                               ],
+    "EquivalentFeatures":  [
+                               {
+                                   "FeatureId":  "combat-overlay",
+                                   "DisplayName":  "Combat Overlay",
+                                   "AshitaPluginId":  "",
+                                   "WindowerPluginId":  "windower-config"
+                               },
+                               {
+                                   "FeatureId":  "hud",
+                                   "DisplayName":  "HUD",
+                                   "AshitaPluginId":  "",
+                                   "WindowerPluginId":  "windower-xivbar"
+                               },
+                               {
+                                   "FeatureId":  "hd-visuals",
+                                   "DisplayName":  "HD Visuals",
+                                   "AshitaPluginId":  "",
+                                   "WindowerPluginId":  ""
+                               }
+                           ],
+    "ServerAddress":  "24.148.24.152"
+}

@@ -1,0 +1,111 @@
+﻿{
+    "PublishedAt":  "2026-06-11 08:01",
+    "ExeReleaseUrl":  "https://github.com/markup-ux/imaginexi-updates/releases/download/live/ImagineXILauncher.exe",
+    "Files":  [
+                  {
+                      "Path":  "ImagineXILauncher.exe",
+                      "Sha256":  "E73D491DF0329F0212A6C6060009C026FBEC5646776B08F4228A91DCB8D4801B",
+                      "Bytes":  178367622
+                  },
+                  {
+                      "Path":  "launcher_config.json",
+                      "Sha256":  "A01A5AE29A483CE3B0B78A9BE1D0E0D96E7B977FA99A7B174F81EE7733BAB429",
+                      "Bytes":  471
+                  },
+                  {
+                      "Path":  "launcher_manifest.json",
+                      "Sha256":  "5430DD38AED243950F1F31509133DF8AAA15CADFC603C28E7BD65D8F71BF7AD3",
+                      "Bytes":  8115
+                  },
+                  {
+                      "Path":  "Assets/blkmoogle.png",
+                      "Sha256":  "D314CF3EE4AFC9AF41167D6694628A4CA3FC5F877E6905C180FAEE17CC9BB7DD",
+                      "Bytes":  2121222
+                  },
+                  {
+                      "Path":  "Assets/README.txt",
+                      "Sha256":  "330AC3D7B2DF7A25C28B1266EF1A4F4CFC574D267AB97B890769A232B0A26E43",
+                      "Bytes":  1171
+                  },
+                  {
+                      "Path":  "Assets/Tools/vgmstream/avcodec-vgmstream-59.dll",
+                      "Sha256":  "4D6CF54E7B3C26EF06E95BDB515A10D1E1BED3EC1FFD87EC3E5C4FBCD2A883F6",
+                      "Bytes":  2450432
+                  },
+                  {
+                      "Path":  "Assets/Tools/vgmstream/avformat-vgmstream-59.dll",
+                      "Sha256":  "0DDE66EA268CCCB67B1AA219C1CE879602B839E561A79A00C8215E2688F1A4B2",
+                      "Bytes":  1305600
+                  },
+                  {
+                      "Path":  "Assets/Tools/vgmstream/avutil-vgmstream-57.dll",
+                      "Sha256":  "A999856C17CFDCE3C22B92B6640A7ADA6C4AB4C3C6841A863770B72FA0BC19B4",
+                      "Bytes":  1792000
+                  },
+                  {
+                      "Path":  "Assets/Tools/vgmstream/COPYING",
+                      "Sha256":  "FCC26D35C4C4365E31F21734F846E4EE362FF0B57BA696085605A7B4768D8763",
+                      "Bytes":  1314
+                  },
+                  {
+                      "Path":  "Assets/Tools/vgmstream/libatrac9.dll",
+                      "Sha256":  "FE82F1AE13A798337E03942C35351997C23CAADB5EB0C6B7A2DC2A521ED8B02E",
+                      "Bytes":  308736
+                  },
+                  {
+                      "Path":  "Assets/Tools/vgmstream/libcelt-0061.dll",
+                      "Sha256":  "542254723D9100F91CBF18E41C4AFF80287C22A9859E9E545C413D984DF440AD",
+                      "Bytes":  110628
+                  },
+                  {
+                      "Path":  "Assets/Tools/vgmstream/libcelt-0110.dll",
+                      "Sha256":  "BFCC51D865BB3B6A2793381BF535F23EC423FEB722B46333FA8556CCDCAFA61A",
+                      "Bytes":  105132
+                  },
+                  {
+                      "Path":  "Assets/Tools/vgmstream/libg719_decode.dll",
+                      "Sha256":  "AAD61F205CE1F1B61285F6B37B90A331EC8C6AE2F94F361714DC21A12C236960",
+                      "Bytes":  156160
+                  },
+                  {
+                      "Path":  "Assets/Tools/vgmstream/libmpg123-0.dll",
+                      "Sha256":  "DB9EB1D91B8EB9F47B0968201DBF6C51A9627E539A78AFD9AD5F59C5D18FE4DF",
+                      "Bytes":  420235
+                  },
+                  {
+                      "Path":  "Assets/Tools/vgmstream/libspeex-1.dll",
+                      "Sha256":  "04DBC85FCEC6C54671535BF39937A70F2DD040A81AD670A0B84DE6CA17B39BFF",
+                      "Bytes":  129630
+                  },
+                  {
+                      "Path":  "Assets/Tools/vgmstream/libvorbis.dll",
+                      "Sha256":  "5F330A20B19B3C70DC43EEDCC95891E65940FCA04A77155C573EFCDD4C2CA665",
+                      "Bytes":  287232
+                  },
+                  {
+                      "Path":  "Assets/Tools/vgmstream/swresample-vgmstream-4.dll",
+                      "Sha256":  "688A81D31EF98A9A6143E1075B2F4C5B79BDFA51E7A14D50D662A0E916DAC739",
+                      "Bytes":  729600
+                  },
+                  {
+                      "Path":  "Assets/Tools/vgmstream/vgmstream-cli.exe",
+                      "Sha256":  "29DF08C557ADA8269C92A6ABFE3886AD2F65849B0B26BA78A0819B363BBC5B85",
+                      "Bytes":  2876928
+                  },
+                  {
+                      "Path":  "Assets/VisualEnhancement/dgVoodoo.conf",
+                      "Sha256":  "A1EBA8842DC7043018FBE18D2B2390265D509563A7765EC904ECF9C735C47618",
+                      "Bytes":  374
+                  },
+                  {
+                      "Path":  "Fonts/OFL-Cinzel.txt",
+                      "Sha256":  "F2B3029ABA64C378BF0963B62945EEE15E564FE4330B934C8F2EB058282B5E83",
+                      "Bytes":  4383
+                  },
+                  {
+                      "Path":  "launcher-assets.zip",
+                      "Sha256":  "F1010310E18C8049BBCA36C6EBFD831A1CC7175441B61638D0ACC38BE67B458C",
+                      "Bytes":  6442315
+                  }
+              ]
+}

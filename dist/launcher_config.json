@@ -1,0 +1,10 @@
+﻿{
+    "ManifestUrl":  "https://github.com/markup-ux/imaginexi-updates/releases/download/live/launcher_manifest.json",
+    "FallbackManifestPath":  "launcher_manifest.json",
+    "WindowerCatalogUrl":  "",
+    "AshitaCatalogUrl":  "",
+    "UiBackgroundPath":  "Assets/launcher_background.png",
+    "UiMusicPath":  "Assets/theme.mp3",
+    "InstallDirectoryDefault":  "C:\\Games\\ImagineXI",
+    "FfxiExeRelativePath":  "SquareEnix\\FINAL FANTASY XI\\pol.exe"
+}
