@@ -138,10 +138,10 @@ Already have FFXI and your own private-server loader configured? You only need t
 
 <!--SERVER_ADDRESS_START-->
 ```
-24.148.24.152
+172.56.17.95
 ```
 
-For example, with xiloader: `xiloader.exe --server 24.148.24.152 --user youraccount`
+For example, with xiloader: `xiloader.exe --server 172.56.17.95 --user youraccount`
 <!--SERVER_ADDRESS_END-->
 
 This address can change from time to time. The address above is refreshed automatically with every update we publish, and the always-current value is also in the [launcher manifest](https://github.com/markup-ux/imaginexi-updates/releases/download/live/launcher_manifest.json) (`ServerAddress` field). The launcher handles this for you automatically.
