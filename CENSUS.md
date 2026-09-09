@@ -1,6 +1,6 @@
 # This week in Vana'diel
 
-Week of — — —. Public counts of jobs, parties, food, and spells. No character names.
+Week of — — —. Public counts of jobs, parties, food, and spells. No character names. A chalkboard, and a study.
 
 ## People
 

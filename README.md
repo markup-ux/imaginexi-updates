@@ -70,7 +70,7 @@ This repository hosts the launcher download and the rolling update channel the l
 
 ## This week in Vana'diel
 
-Once people are playing, we post a weekly census of how the server looks: most-used jobs, common parties, food, and spells. Public totals, no character names. Same idea as retail’s old chalkboard.
+Once people are playing, we post a weekly census of how the server looks: most-used jobs, common parties, food, and spells. Public totals, no character names. Same idea as retail’s old chalkboard, and a study.
 
 Full chalkboard: [CENSUS.md](CENSUS.md)
 
