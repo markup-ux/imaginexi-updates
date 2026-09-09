@@ -1,6 +1,6 @@
 # ImagineXI
 
-**ImagineXI** is a free, community-hosted FINAL FANTASY XI private server.
+**ImagineXI** is a free, community-hosted FINAL FANTASY XI private server and research project. It does not collect personal data. The only public stats are the anonymous weekly [census](CENSUS.md) — jobs, parties, food, and spells. No names, no accounts.
 
 This repository hosts the launcher download and the rolling update channel the launcher pulls from.
 
@@ -70,7 +70,7 @@ This repository hosts the launcher download and the rolling update channel the l
 
 ## This week in Vana'diel
 
-The chalkboard starts once people are in the field. Totals are anonymous — jobs, parties, food, and spells. No names.
+The chalkboard starts once people are in the field. Totals are anonymous — jobs, parties, food, and spells. No names, no accounts, no personal data. This census is the only research data ImagineXI publishes.
 
 Full chalkboard: [CENSUS.md](CENSUS.md)
 
@@ -122,4 +122,4 @@ This address can change from time to time. The address above is refreshed automa
 
 ## Legal
 
-ImagineXI is a non-commercial fan server. It is not affiliated with or endorsed by Square Enix. FINAL FANTASY is a registered trademark of Square Enix Holdings Co., Ltd. All game assets remain the property of their respective owners; this project distributes none of them.
+ImagineXI is a non-commercial fan server and research project. It does not collect personal data; the only published stats are the anonymous [census](CENSUS.md). It is not affiliated with or endorsed by Square Enix. FINAL FANTASY is a registered trademark of Square Enix Holdings Co., Ltd. All game assets remain the property of their respective owners; this project distributes none of them.
