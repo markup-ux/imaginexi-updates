@@ -1,6 +1,6 @@
 # This week in Vana'diel
 
-Week of — — —. Server-wide counts. No character names, no accounts.
+Week of — — —. Public counts of jobs, parties, food, and spells. No character names.
 
 ## People
 

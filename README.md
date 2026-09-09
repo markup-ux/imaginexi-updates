@@ -70,7 +70,7 @@ This repository hosts the launcher download and the rolling update channel the l
 
 ## This week in Vana'diel
 
-The chalkboard starts once people are in the field. Totals are anonymous — jobs, parties, food, and spells. No names.
+Once people are playing, we post a weekly chalkboard of how the server looks: most-used jobs, common parties, food, and spells. Public totals, no character names. Same idea as retail’s old census — a notice board, not a study.
 
 Full chalkboard: [CENSUS.md](CENSUS.md)
 
