@@ -1,0 +1,64 @@
+{
+  "Version": "1",
+  "Tracks": [
+    {
+      "Title": "Untitled (729)",
+      "Artist": "Maginary",
+      "Url": "https://github.com/markup-ux/imaginexi-updates/releases/download/ixi20/untitled-729.mp3"
+    },
+    {
+      "Title": "Next to You",
+      "Artist": "Maginary",
+      "Url": "https://github.com/markup-ux/imaginexi-updates/releases/download/ixi20/next-to-you.mp3",
+      "SpotifyUrl": "https://open.spotify.com/search/Maginary%20Next%20to%20You",
+      "AppleMusicUrl": "https://music.apple.com/us/album/next-to-you/6805418710?i=6805418711",
+      "AmazonUrl": "https://music.amazon.com/search/Maginary%20Next%20to%20You",
+      "YouTubeUrl": "https://www.youtube.com/results?search_query=Maginary+Next+to+You"
+    },
+    {
+      "Title": "Call Out Your Name",
+      "Artist": "Maginary",
+      "Url": "https://github.com/markup-ux/imaginexi-updates/releases/download/ixi20/call-out-your-name.mp3",
+      "SpotifyUrl": "https://open.spotify.com/search/Maginary%20Call%20Out%20Your%20Name",
+      "AppleMusicUrl": "https://music.apple.com/us/album/call-out-your-name/1849167889?i=1849167890",
+      "AmazonUrl": "https://music.amazon.com/search/Maginary%20Call%20Out%20Your%20Name",
+      "YouTubeUrl": "https://www.youtube.com/results?search_query=Maginary+Call+Out+Your+Name"
+    },
+    {
+      "Title": "Time",
+      "Artist": "Maginary",
+      "Url": "https://github.com/markup-ux/imaginexi-updates/releases/download/ixi20/time.mp3",
+      "SpotifyUrl": "https://open.spotify.com/search/Maginary%20Time",
+      "AppleMusicUrl": "https://music.apple.com/us/album/time/1823786900?i=1823786901",
+      "AmazonUrl": "https://music.amazon.com/search/Maginary%20Time",
+      "YouTubeUrl": "https://www.youtube.com/results?search_query=Maginary+Time"
+    },
+    {
+      "Title": "Nothing",
+      "Artist": "Maginary",
+      "Url": "https://github.com/markup-ux/imaginexi-updates/releases/download/ixi20/nothing.mp3",
+      "SpotifyUrl": "https://open.spotify.com/search/Maginary%20Nothing",
+      "AppleMusicUrl": "https://music.apple.com/us/album/nothing/6799603872?i=6799603873",
+      "AmazonUrl": "https://music.amazon.com/search/Maginary%20Nothing",
+      "YouTubeUrl": "https://www.youtube.com/results?search_query=Maginary+Nothing"
+    },
+    {
+      "Title": "Call Me Back",
+      "Artist": "Maginary",
+      "Url": "https://github.com/markup-ux/imaginexi-updates/releases/download/ixi20/call-me-back.mp3",
+      "SpotifyUrl": "https://open.spotify.com/search/Maginary%20Call%20Me%20Back",
+      "AppleMusicUrl": "https://music.apple.com/us/album/call-me-back/1807699418?i=1807699423",
+      "AmazonUrl": "https://music.amazon.com/search/Maginary%20Call%20Me%20Back",
+      "YouTubeUrl": "https://www.youtube.com/results?search_query=Maginary+Call+Me+Back"
+    },
+    {
+      "Title": "Stay With Me",
+      "Artist": "Maginary",
+      "Url": "https://github.com/markup-ux/imaginexi-updates/releases/download/ixi20/stay-with-me.mp3",
+      "SpotifyUrl": "https://open.spotify.com/search/Maginary%20Stay%20With%20Me",
+      "AppleMusicUrl": "https://music.apple.com/us/album/stay-with-me/1869822677?i=1869822678",
+      "AmazonUrl": "https://music.amazon.com/search/Maginary%20Stay%20With%20Me",
+      "YouTubeUrl": "https://www.youtube.com/results?search_query=Maginary+Stay+With+Me"
+    }
+  ]
+}
