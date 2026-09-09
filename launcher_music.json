@@ -2,6 +2,15 @@
   "Version": "1",
   "Tracks": [
     {
+      "Title": "Drowning in Hindsight",
+      "Artist": "Maginary",
+      "Url": "https://github.com/markup-ux/imaginexi-updates/releases/download/ixi20/drowning-in-hindsight.mp3",
+      "SpotifyUrl": "https://open.spotify.com/search/Maginary%20Drowning%20in%20Hindsight",
+      "AppleMusicUrl": "https://music.apple.com/us/album/drowning-in-hindsight/6805715982?i=6805715983",
+      "AmazonUrl": "https://music.amazon.com/search/Maginary%20Drowning%20in%20Hindsight",
+      "YouTubeUrl": "https://www.youtube.com/results?search_query=Maginary+Drowning+in+Hindsight"
+    },
+    {
       "Title": "Call Out Your Name",
       "Artist": "Maginary",
       "Url": "https://github.com/markup-ux/imaginexi-updates/releases/download/ixi20/call-out-your-name.mp3",
@@ -18,15 +27,6 @@
       "AppleMusicUrl": "https://music.apple.com/us/album/next-to-you/6805418710?i=6805418711",
       "AmazonUrl": "https://music.amazon.com/search/Maginary%20Next%20to%20You",
       "YouTubeUrl": "https://www.youtube.com/results?search_query=Maginary+Next+to+You"
-    },
-    {
-      "Title": "Drowning in Hindsight",
-      "Artist": "Maginary",
-      "Url": "https://github.com/markup-ux/imaginexi-updates/releases/download/ixi20/drowning-in-hindsight.mp3",
-      "SpotifyUrl": "https://open.spotify.com/search/Maginary%20Drowning%20in%20Hindsight",
-      "AppleMusicUrl": "https://music.apple.com/us/album/drowning-in-hindsight/6805715982?i=6805715983",
-      "AmazonUrl": "https://music.amazon.com/search/Maginary%20Drowning%20in%20Hindsight",
-      "YouTubeUrl": "https://www.youtube.com/results?search_query=Maginary+Drowning+in+Hindsight"
     },
     {
       "Title": "Call Me Back",
