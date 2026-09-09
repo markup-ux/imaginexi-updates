@@ -4,7 +4,42 @@
 
 This repository hosts the launcher download and the rolling update channel the launcher pulls from.
 
-## Download
+## Imagine XI 2.0
+
+A 75-cap FFXI private server where every job is open, gil is XP, and you play with people, not Trusts.
+
+**[Download the Imagine XI 2.0 launcher](https://github.com/markup-ux/imaginexi-updates/releases/download/ixi20/ImagineXI20-Launcher.zip)** — unzip and run `ImagineXILauncher.exe`. Official FFXI client required (not included). Leave **Play on this PC** unchecked.
+
+### Headline hooks
+
+- **Cap 75 / sub 37.** Start at 1. No Limit Break quests. Level freely.
+- **Every job unlocked at create** (WAR–RUN). Subjob from the first login.
+- **No Trusts.** Parties, linkshells, and real people.
+- **Wear anything on any job.** Skill-based weapon skills are open too.
+- **Gil and Sparks become XP.** You do not shop for weapons or armor.
+
+### Combat
+
+- **Custom job progression**
+- Half of your XP also levels the current subjob (capped at 37).
+- Level Sync can go **up or down**. Your set stays on and scales with the sync.
+- Dia and Bio together. Poison / Slow / Paralyze / Blind stack from different sources. All six elemental DoTs and helixes stack.
+- Infinite ammo. Ninjutsu needs no tools. Instant Warp is not consumed. Crafting never breaks (HQ still retail).
+
+### Get across Vana'diel
+
+- Crag crystals, both airship passes, and every map / Survival Guide on create.
+- Mounts at main level 10, including in the main cities.
+- Homepoints, guides, outposts, airships, chocobos, maps — no gil fees (gil is XP).
+- 80-slot inventory and every Mog bag / wardrobe / locker, locker usable everywhere, Mog House 2F open.
+
+### Client that feels modern
+
+- One launcher: install, update, create account, play.
+- Spells auto-learned on login, level-up, and job change.
+- Imagine XI Overlay HUD: party, target, DPS, quest tracker, gear sets, modern menus, Auction House board.
+
+## Download (Imagine XI 1.0)
 
 <!--LAUNCHER_DOWNLOAD_START-->
 Pick whichever you prefer from the **[live release page](https://github.com/markup-ux/imaginexi-updates/releases/tag/live)**:
