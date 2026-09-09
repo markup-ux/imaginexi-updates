@@ -1,6 +1,6 @@
 # ImagineXI
 
-**ImagineXI** is a free, community-hosted FINAL FANTASY XI private server and research project.
+**ImagineXI** is a free, community-hosted FINAL FANTASY XI private server.
 
 This repository hosts the launcher download and the rolling update channel the launcher pulls from.
 
@@ -38,6 +38,12 @@ A 75-cap FFXI private server where every job is open, gil is XP, and you play wi
 - One launcher: install, update, create account, play.
 - Spells auto-learned on login, level-up, and job change.
 - Imagine XI Overlay HUD: party, target, DPS, quest tracker, gear sets, modern menus, Auction House board.
+
+### This week in Vana'diel
+
+The chalkboard starts once people are in the field. Totals are anonymous — jobs, parties, food, and spells. No names.
+
+Full chalkboard: [CENSUS.md](CENSUS.md)
 
 ## Download (Imagine XI 1.0)
 
@@ -142,7 +148,7 @@ ImagineXI **does not distribute any of Square Enix's copyrighted game files.** Y
 Why:
 
 - FINAL FANTASY XI's client, art, music, and data belong to Square Enix. Redistributing them is copyright infringement.
-- ImagineXI is run as a **research project**, and we want it to be as legally sound as possible. Everything we distribute is our own work or properly licensed open-source software  - never Square Enix's assets.
+- Everything we distribute is our own work or properly licensed open-source software — never Square Enix's assets.
 
 The official client is a free download from Square Enix's own servers. You do not need a registration code, a PlayOnline account, or a subscription to play on ImagineXI  - those are only required for Square Enix's official retail service.
 
@@ -183,4 +189,4 @@ This address can change from time to time. The address above is refreshed automa
 
 ## Legal
 
-ImagineXI is a non-commercial research project. It is not affiliated with or endorsed by Square Enix. FINAL FANTASY is a registered trademark of Square Enix Holdings Co., Ltd. All game assets remain the property of their respective owners; this project distributes none of them.
+ImagineXI is a non-commercial fan server. It is not affiliated with or endorsed by Square Enix. FINAL FANTASY is a registered trademark of Square Enix Holdings Co., Ltd. All game assets remain the property of their respective owners; this project distributes none of them.
