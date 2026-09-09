@@ -6,24 +6,22 @@ This repository hosts the launcher download and the rolling update channel the l
 
 ## Imagine XI 2.0
 
-Imagine XI 2.0 is up.
-
 **[Download the Imagine XI 2.0 launcher](https://github.com/markup-ux/imaginexi-updates/releases/download/ixi20/ImagineXI20-Launcher.zip)** — unzip and run `ImagineXILauncher.exe`. Official FFXI client required (not included). Leave **Play on this PC** unchecked.
 
 ### Server
 
 - Cap: main 75 / sub 37
-- Start at level 1. No Limit Break quests. Level 1 → 75 freely.
-- All jobs unlocked at creation (WAR–RUN).
+- Start at level 1. No Limit Breaks. Level freely to 75.
+- All jobs unlocked at creation (WAR–RUN). No Trusts.
 - Subjob unlocked from the start.
 
 ### Progression
 
-- Abilities, traits, and magic unlock by 37. Two-hours / one-hours from level 1.
-- Dual Wield V on WAR–RUN. TH3 on THF/BST/RNG/COR. Caster Refresh / Conserve MP / Fast Cast. RDM Shield Mastery at 1.
-- Skill ranks (native weapons A+, ninjutsu A+ on all jobs, songs A+ on BRD).
+- Abilities, traits, and magic unlock by 37. Two-hours and one-hours from level 1; timed SPs last 2 minutes.
+- Dual Wield V on WAR–RUN. Treasure Hunter 3 on THF / BST / RNG / COR.
+- Casters get Refresh, Conserve MP, and Fast Cast. RDM Shield Mastery at 1.
+- Native weapons A+. Ninjutsu A+ on every job. Songs A+ on BRD.
 - Combat, magic, and defensive skills stay at your stored job cap.
-- Timed 2-hours / 1-hours last 2 minutes.
 
 ### Economy & gear
 
@@ -31,36 +29,44 @@ Imagine XI 2.0 is up.
 - All equipment is usable on all jobs.
 - First time you play a job: one starter crate (need inventory space).
 - Decent Challenge+ kills drop gear in any zone: starter / pantheon through 20, then shop-tier kits.
-- 10% cosmetic drop on EXP kills (including NMs), party treasure pool.
-- NM first-kill XP burst. Vendor sells become XP.
-- Exchange NPC next to conquest / signet guards (sparks spend-only).
+- Too Weak drops nothing. 10% cosmetic drop on EXP kills (including NMs).
+- NM first-kill XP burst. Vendor sells of combat gear become XP.
+- Exchange NPC next to conquest / signet guards (Sparks spend-only).
+- Auction House is a gift locker — no gil fees or payouts.
 
 ### Combat & jobs
 
 - Provoke on MNK / PLD / NIN / RUN.
-- Infinite combat ammo (still must equip legal ammo). Ninjutsu needs no tools.
-- Instant Warp scrolls are not consumed.
+- Infinite combat ammo (still equip legal ammo). Ninjutsu needs no tools.
+- Instant Warp scrolls are not consumed. Teleports do not require a prior visit.
 - Mana Wall is a toggle (3s recast to turn off).
 - Cascade: 8 min, 10% MAB. SCH: 5×48s stratagems. Accession / Manifestation / Diffusion: 45s multi-spell windows.
 - DRG wyvern is always hybrid DD + party support.
 - NIN / SAM / DRG stances last 1 hour.
-- Crafting: valid recipes never break; HQ stays retail; craft skill-ups are 4.5× more often.
+- Corsair: all Phantom Rolls from the start; Quick Draw needs no cards.
+- Crafting: valid recipes never break; HQ stays retail; skill-ups are 4.5× more often.
 
 ### Quality of life
 
+- On death, a spirit raises you (weakness stays). Skipped if Reraise is up.
 - Spells auto-learned on login / level-up / job change.
 - Discarded items become community caskets.
-- Crag crystals + both airship passes on create/login. Mounts at main level 10.
+- Crag crystals + both airship passes on create/login. All maps and Survival Guides unlocked. Mounts at main level 10.
+- Homepoints, airships, chocobos, and other travel fees are free.
 - Half of gained XP also levels your current subjob (capped at 37).
 - 80-slot inventory + full mog storage. Locker works in all areas with no expiry. Mog House 2F unlocked.
 - Party Level Sync can raise or lower to the designee's stored main job.
-- Refresh I and II stack on one effect (cap 9).
+- Refresh I and II stack on one effect (cap 9). Self/party enhancing, songs, and rolls last until zone, death, or job change.
+
+### Launcher
+
+- Theme music: Maginary originals. Skip, shuffle, and volume in the footer. Listen on opens the official stores.
 
 ### Client
 
-- Isolated install folder. XIPivot ImagineXI20 DAT overlay for all-jobs gear.
+- Isolated install folder. XIPivot DAT overlay for all-jobs gear.
 - Does not patch retail ROM files.
-- Imagine XI Overlay HUD — //ixo help in game.
+- Overlay HUD — type `//ixo help` in game.
 
 ## This week in Vana'diel
 
