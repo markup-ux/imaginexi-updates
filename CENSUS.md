@@ -1,6 +1,6 @@
 # This week in Vana'diel
 
-Week of — — —. Server-wide counts only. No personal data, no character names, no accounts.
+Week of — — —. Server-wide counts. No character names, no accounts.
 
 ## People
 
