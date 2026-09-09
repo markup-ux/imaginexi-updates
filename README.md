@@ -20,7 +20,7 @@ A 75-cap FFXI private server where every job is open, gil is XP, and you play wi
 
 ### Combat
 
-- **Custom job progression**
+- Custom job progression.
 - Half of your XP also levels the current subjob (capped at 37).
 - Level Sync can go **up or down**. Your set stays on and scales with the sync.
 - Dia and Bio together. Poison / Slow / Paralyze / Blind stack from different sources. All six elemental DoTs and helixes stack.
