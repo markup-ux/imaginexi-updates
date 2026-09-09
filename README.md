@@ -6,39 +6,63 @@ This repository hosts the launcher download and the rolling update channel the l
 
 ## Imagine XI 2.0
 
-A 75-cap FFXI private server where every job is open and gil is XP.
+Imagine XI 2.0 is up.
 
 **[Download the Imagine XI 2.0 launcher](https://github.com/markup-ux/imaginexi-updates/releases/download/ixi20/ImagineXI20-Launcher.zip)** — unzip and run `ImagineXILauncher.exe`. Official FFXI client required (not included). Leave **Play on this PC** unchecked.
 
-### Headline hooks
+### Server
 
-- **Cap 75 / sub 37.** Start at 1. No Limit Break quests. Level freely.
-- **Every job unlocked at create** (WAR–RUN). Subjob from the first login.
-- **Wear anything on any job.** Skill-based weapon skills are open too.
-- **Gil and Sparks become XP.** You do not shop for weapons or armor.
+- Cap: main 75 / sub 37
+- Start at level 1. No Limit Break quests. Level 1 → 75 freely.
+- All jobs unlocked at creation (WAR–RUN).
+- Subjob unlocked from the start.
 
-### Combat
+### Progression
 
-- Custom job progression.
-- Half of your XP also levels the current subjob (capped at 37).
-- Level Sync can go **up or down**. Your set stays on and scales with the sync.
-- Dia and Bio together. Poison / Slow / Paralyze / Blind stack from different sources. All six elemental DoTs and helixes stack.
-- Infinite ammo. Ninjutsu needs no tools. Instant Warp is not consumed. Crafting never breaks (HQ still retail).
+- Abilities, traits, and magic unlock by 37. Two-hours / one-hours from level 1.
+- Dual Wield V on WAR–RUN. TH3 on THF/BST/RNG/COR. Caster Refresh / Conserve MP / Fast Cast. RDM Shield Mastery at 1.
+- Skill ranks (native weapons A+, ninjutsu A+ on all jobs, songs A+ on BRD).
+- Combat, magic, and defensive skills stay at your stored job cap.
+- Timed 2-hours / 1-hours last 2 minutes.
 
-### Get across Vana'diel
+### Economy & gear
 
-- Crag crystals, both airship passes, and every map / Survival Guide on create.
-- Mounts at main level 10, including in the main cities.
-- Homepoints, guides, outposts, airships, chocobos, maps — no gil fees (gil is XP).
-- 80-slot inventory and every Mog bag / wardrobe / locker, locker usable everywhere, Mog House 2F open.
+- Gil and Sparks convert to XP. Shops do not sell weapons or armor. Remaining NPC / guild stock is free.
+- All equipment is usable on all jobs.
+- First time you play a job: one starter crate (need inventory space).
+- Decent Challenge+ kills drop gear in any zone: starter / pantheon through 20, then shop-tier kits.
+- 10% cosmetic drop on EXP kills (including NMs), party treasure pool.
+- NM first-kill XP burst. Vendor sells become XP.
+- Exchange NPC next to conquest / signet guards (sparks spend-only).
 
-### Client that feels modern
+### Combat & jobs
 
-- One launcher: install, update, create account, play.
-- Spells auto-learned on login, level-up, and job change.
-- Imagine XI Overlay HUD: party, target, DPS, quest tracker, gear sets, modern menus, Auction House board.
+- Provoke on MNK / PLD / NIN / RUN.
+- Infinite combat ammo (still must equip legal ammo). Ninjutsu needs no tools.
+- Instant Warp scrolls are not consumed.
+- Mana Wall is a toggle (3s recast to turn off).
+- Cascade: 8 min, 10% MAB. SCH: 5×48s stratagems. Accession / Manifestation / Diffusion: 45s multi-spell windows.
+- DRG wyvern is always hybrid DD + party support.
+- NIN / SAM / DRG stances last 1 hour.
+- Crafting: valid recipes never break; HQ stays retail; craft skill-ups are 4.5× more often.
 
-### This week in Vana'diel
+### Quality of life
+
+- Spells auto-learned on login / level-up / job change.
+- Discarded items become community caskets.
+- Crag crystals + both airship passes on create/login. Mounts at main level 10.
+- Half of gained XP also levels your current subjob (capped at 37).
+- 80-slot inventory + full mog storage. Locker works in all areas with no expiry. Mog House 2F unlocked.
+- Party Level Sync can raise or lower to the designee's stored main job.
+- Refresh I and II stack on one effect (cap 9).
+
+### Client
+
+- Isolated install folder. XIPivot ImagineXI20 DAT overlay for all-jobs gear.
+- Does not patch retail ROM files.
+- Imagine XI Overlay HUD — //ixo help in game.
+
+## This week in Vana'diel
 
 The chalkboard starts once people are in the field. Totals are anonymous — jobs, parties, food, and spells. No names.
 
